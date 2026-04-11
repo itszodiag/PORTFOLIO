@@ -1,0 +1,2838 @@
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+
+<--- Last few GCs --->
+
+
+
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+
+
+
+
+
+<--- JS stacktrace --->
+
+
+#
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+<--- JS stacktrace --->
+
+#
+
+
+
+
+
+----- Native stack trace -----
+#
+
+<--- Last few GCs --->
+
+
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+
+<--- Last few GCs --->
+
+#
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+#
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+#
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+<--- JS stacktrace --->
+#
+
+----- Native stack trace -----
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+<--- JS stacktrace --->
+#
+
+----- Native stack trace -----
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+
+
+----- Native stack trace -----
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+
+
+
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+#
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+#
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+#
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+#
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+----- Native stack trace -----
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+----- Native stack trace -----
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+16: 00007FF665C4511D node::NewContext+397
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+20: 00007FF665C66063 uv_poll_stop+371
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+17: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+21: 00007FF6674E9FFB inflateValidate+172203
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+18: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+17: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+19: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+18: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+20: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+19: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+19: 00007FF666255093 v8::internal::Version::GetString+92243
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+19: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+21: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+20: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+20: 00007FF66626D79A v8::base::AddressSpaceReservation::AddressSpaceReservation+78586
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+20: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+22: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+21: 00007FF666255093 v8::internal::Version::GetString+92243
+
+
+21: 00007FF66625EEBB v8::base::AddressSpaceReservation::AddressSpaceReservation+18971
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+21: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+23: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+22: 00007FF6665BE519 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58729
+<--- Last few GCs --->
+
+22: 00007FF66662A73D v8::base::CPU::has_sse41+74877
+17: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+22: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+24: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+17: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+
+23: 00007FF6662554D0 v8::internal::Version::GetString+93328
+
+#
+23: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+23: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+18: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+25: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+18: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+24: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+<--- Last few GCs --->
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+24: 00007FF666764E01 v8::Isolate::Initialize+433
+19: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+24: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+26: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+19: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+25: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+
+<--- JS stacktrace --->
+#
+25: 00007FF665C4511D node::NewContext+397
+20: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+25: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+27: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+20: 00007FF6662554D0 v8::internal::Version::GetString+93328
+26: 00007FF666764E01 v8::Isolate::Initialize+433
+
+----- Native stack trace -----
+26: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+
+21: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+26: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+28: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+21: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+27: 00007FF665C4511D node::NewContext+397
+
+
+27: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+<--- JS stacktrace --->
+22: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+27: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+29: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+22: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+28: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+
+28: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+
+23: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+28: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+30: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+23: 00007FF666764E01 v8::Isolate::Initialize+433
+29: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+#
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+29: 00007FF665C66063 uv_poll_stop+371
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+24: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+29: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+31: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+24: 00007FF665C4511D node::NewContext+397
+30: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+30: 00007FF6674E9FFB inflateValidate+172203
+----- Native stack trace -----
+25: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+30: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+32: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+25: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+31: 00007FF665C66063 uv_poll_stop+371
+#
+31: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+26: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+31: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+33: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+26: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+32: 00007FF6674E9FFB inflateValidate+172203
+----- Native stack trace -----
+32: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+27: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+32: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+34: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+27: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+33: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+28: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+33: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+35: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+28: 00007FF665C66063 uv_poll_stop+371
+34: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+29: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+34: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+36: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+29: 00007FF6674E9FFB inflateValidate+172203
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+35: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+30: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+37: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+30: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+31: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+36: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+38: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+31: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+32: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+37: 00007FF6662554D0 v8::internal::Version::GetString+93328
+39: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+33: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+38: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+40: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+34: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+39: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+41: 00007FF6662554D0 v8::internal::Version::GetString+93328
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+35: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+40: 00007FF666764E01 v8::Isolate::Initialize+433
+42: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+36: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+43: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+41: 00007FF665C4511D node::NewContext+397
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+37: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+42: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+44: 00007FF666764E01 v8::Isolate::Initialize+433
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+38: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+43: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+45: 00007FF665C4511D node::NewContext+397
+16: 00007FF665C4511D node::NewContext+397
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+39: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+44: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+46: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+40: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+45: 00007FF665C66063 uv_poll_stop+371
+47: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+46: 00007FF6674E9FFB inflateValidate+172203
+41: 00007FF6662554D0 v8::internal::Version::GetString+93328
+48: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+42: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+47: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+49: 00007FF665C66063 uv_poll_stop+371
+20: 00007FF665C66063 uv_poll_stop+371
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+43: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+48: 00007FFF5EEEC3FC RtlUserThreadStart+44
+50: 00007FF6674E9FFB inflateValidate+172203
+21: 00007FF6674E9FFB inflateValidate+172203
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+44: 00007FF666764E01 v8::Isolate::Initialize+433
+51: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+45: 00007FF665C4511D node::NewContext+397
+52: 00007FFF5EEEC3FC RtlUserThreadStart+44
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+46: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+19: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+47: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+
+20: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+48: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+<--- Last few GCs --->
+21: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+49: 00007FF665C66063 uv_poll_stop+371
+
+
+22: 00007FF6662554D0 v8::internal::Version::GetString+93328
+50: 00007FF6674E9FFB inflateValidate+172203
+
+
+23: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+
+51: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+#
+<--- JS stacktrace --->
+24: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+
+52: 00007FFF5EEEC3FC RtlUserThreadStart+44
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+25: 00007FF666764E01 v8::Isolate::Initialize+433
+#
+#
+
+26: 00007FF665C4511D node::NewContext+397
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+
+27: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+
+#
+#
+28: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+29: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+
+#
+30: 00007FF665C66063 uv_poll_stop+371
+----- Native stack trace -----
+31: 00007FF6674E9FFB inflateValidate+172203
+
+32: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+33: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 1: 00007FF665C070F7 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 2: 00007FF665ADB6EF 
+memory allocation of 4368 bytes failed
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 3: 00007FF666DD5076 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+ 4: 00007FF66676F1A3 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+ 5: 00007FF66675BCD6 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+ 6: 00007FF6665B8420 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+ 7: 00007FF66657F441 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+ 8: 00007FF66657FA60 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+ 9: 00007FF66657F766 
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+10: 00007FF66656F24B 
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+11: 00007FF66656E87A 
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+12: 00007FF6665C6260 
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+19: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+13: 00007FF66662A343 
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+20: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+14: 00007FF66625D3B3 
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+21: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+15: 00007FF666764E01 
+16: 00007FF665C4511D node::NewContext+397
+22: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+16: 00007FF665C4511D 
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+23: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+17: 00007FF665A25A45 
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+24: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+18: 00007FF665A2BCE2 
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+25: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+19: 00007FF665A1F5B5 
+20: 00007FF665C66063 uv_poll_stop+371
+26: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+20: 00007FF665C66063 
+21: 00007FF6674E9FFB inflateValidate+172203
+27: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+21: 00007FF6674E9FFB 
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+28: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+29: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+30: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+31: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+32: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+33: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+34: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+35: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+36: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+37: 00007FF6662554D0 v8::internal::Version::GetString+93328
+38: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+39: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+40: 00007FF666764E01 v8::Isolate::Initialize+433
+41: 00007FF665C4511D node::NewContext+397
+42: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+43: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+44: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+45: 00007FF665C66063 uv_poll_stop+371
+
+46: 00007FF6674E9FFB inflateValidate+172203
+
+
+47: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+
+#
+48: 00007FFF5EEEC3FC RtlUserThreadStart+44
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+----- Native stack trace -----
+#
+
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+16: 00007FF665C4511D node::NewContext+397
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+20: 00007FF665C66063 uv_poll_stop+371
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+21: 00007FF6674E9FFB inflateValidate+172203
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+#
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+# Fatal error in , line 0
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+# Out of memory: HashMap::Initialize
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+#
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+#
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+#
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+#FailureMessage Object: 0000008E7C7F8F70
+16: 00007FF665C4511D node::NewContext+397
+----- Native stack trace -----
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+20: 00007FF665C66063 uv_poll_stop+371
+ 3: 00007FF666DD5415 V8_Fatal+197
+21: 00007FF6674E9FFB inflateValidate+172203
+ 4: 00007FF66674D5B3 v8::SharedValueConveyor::SharedValueConveyor+507411
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 5: 00007FF66674D046 v8::SharedValueConveyor::SharedValueConveyor+506022
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 6: 00007FF66674D2EC v8::SharedValueConveyor::SharedValueConveyor+506700
+ 7: 00007FF66674D188 v8::SharedValueConveyor::SharedValueConveyor+506344
+ 8: 00007FF666316580 v8::base::Thread::StartSynchronously+9968
+ 9: 00007FF66635036D v8::base::Thread::StartSynchronously+247005
+10: 00007FF66633B6FA v8::base::Thread::StartSynchronously+161898
+11: 00007FF66634C8A8 v8::base::Thread::StartSynchronously+231960
+12: 00007FF6663410B4 v8::base::Thread::StartSynchronously+184868
+13: 00007FF66634667E v8::base::Thread::StartSynchronously+206830
+14: 00007FF666346B2E v8::base::Thread::StartSynchronously+208030
+15: 00007FF6663528BF v8::base::Thread::StartSynchronously+256559
+16: 00007FF666349E08 v8::base::Thread::StartSynchronously+221048
+17: 00007FF666340CFD v8::base::Thread::StartSynchronously+183917
+18: 00007FF666341271 v8::base::Thread::StartSynchronously+185313
+19: 00007FF666341101 v8::base::Thread::StartSynchronously+184945
+20: 00007FF66634667E v8::base::Thread::StartSynchronously+206830
+21: 00007FF66634F2B7 v8::base::Thread::StartSynchronously+242727
+22: 00007FF66634C889 v8::base::Thread::StartSynchronously+231929
+23: 00007FF6663410B4 v8::base::Thread::StartSynchronously+184868
+24: 00007FF66634667E v8::base::Thread::StartSynchronously+206830
+25: 00007FF666346B2E v8::base::Thread::StartSynchronously+208030
+26: 00007FF6663528BF v8::base::Thread::StartSynchronously+256559
+27: 00007FF666349E08 v8::base::Thread::StartSynchronously+221048
+28: 00007FF666340CFD v8::base::Thread::StartSynchronously+183917
+29: 00007FF666341271 v8::base::Thread::StartSynchronously+185313
+30: 00007FF666341101 v8::base::Thread::StartSynchronously+184945
+31: 00007FF66634667E v8::base::Thread::StartSynchronously+206830
+32: 00007FF66634F2B7 v8::base::Thread::StartSynchronously+242727
+33: 00007FF66634C889 v8::base::Thread::StartSynchronously+231929
+34: 00007FF6663410B4 v8::base::Thread::StartSynchronously+184868
+
+35: 00007FF66634667E v8::base::Thread::StartSynchronously+206830
+
+36: 00007FF666346B2E v8::base::Thread::StartSynchronously+208030
+#
+37: 00007FF6663528BF v8::base::Thread::StartSynchronously+256559
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+38: 00007FF666349E08 v8::base::Thread::StartSynchronously+221048
+<--- Last few GCs --->
+#
+39: 00007FF666349107 v8::base::Thread::StartSynchronously+217719
+
+----- Native stack trace -----
+40: 00007FF66634A82A v8::base::Thread::StartSynchronously+223642
+
+41: 00007FF66633BCCD v8::base::Thread::StartSynchronously+163389
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+42: 00007FF66634F81D v8::base::Thread::StartSynchronously+244109
+<--- JS stacktrace --->
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+43: 00007FF666334D3C v8::base::Thread::StartSynchronously+134828
+
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+44: 00007FF6666D7200 v8::SharedValueConveyor::SharedValueConveyor+23136
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+45: 00007FF6666DCD24 v8::SharedValueConveyor::SharedValueConveyor+46468
+
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+46: 00007FF66675685D v8::ScriptCompiler::CompileFunctionInternal+669
+#
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+47: 00007FF6667565B4 v8::ScriptCompiler::CompileFunction+84
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+48: 00007FF665B782BD node::OnFatalError+55405
+#
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+49: 00007FF665B787F4 node::OnFatalError+56740
+----- Native stack trace -----
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+
+50: 00007FF60674FA64 
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+16: 00007FF665C4511D node::NewContext+397
+<--- Last few GCs --->
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+[35136:0000019EF37F4000]      169 ms: Scavenge 6.5 (8.1) -> 5.7 (9.8) MB, pooled: 0 MB, 1.28 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+[35136:0000019EF37F4000]     1356 ms: Scavenge 8.3 (10.6) -> 7.4 (11.1) MB, pooled: 0 MB, 1006.60 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+[35136:0000019EF37F4000]     3480 ms: Scavenge 9.7 (12.6) -> 8.9 (17.1) MB, pooled: 0 MB, 2012.26 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+20: 00007FF665C66063 uv_poll_stop+371
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+21: 00007FF6674E9FFB inflateValidate+172203
+
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+<--- JS stacktrace --->
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+----- Native stack trace -----
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+
+19: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+20: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+21: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+22: 00007FF6662554D0 v8::internal::Version::GetString+93328
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+23: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+24: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+25: 00007FF666764E01 v8::Isolate::Initialize+433
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+26: 00007FF665C4511D node::NewContext+397
+ 6: 00007FF6665951A0 v8::CpuProfileNode::GetScriptResourceNameStr+92560
+27: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 7: 00007FF6665BF0BB v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+61707
+28: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 8: 00007FF6665C16CE v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71454
+29: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 9: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+30: 00007FF665C66063 uv_poll_stop+371
+10: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+31: 00007FF6674E9FFB inflateValidate+172203
+11: 00007FF665F36C2D BIO_ssl_shutdown+189
+32: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+12: 7FF8000000000000 
+33: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+<--- Last few GCs --->
+
+
+
+
+
+
+<--- JS stacktrace --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+#
+
+
+
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+[9176:0000027D0C264000]     6221 ms: Scavenge 6.5 (8.1) -> 5.7 (9.8) MB, pooled: 0 MB, 23.25 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+#
+
+[9176:0000027D0C264000]     6888 ms: Scavenge 8.3 (10.6) -> 7.5 (11.1) MB, pooled: 0 MB, 1.34 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+<--- JS stacktrace --->
+----- Native stack trace -----
+#
+[9176:0000027D0C264000]     7331 ms: Scavenge 9.7 (12.6) -> 9.0 (17.1) MB, pooled: 0 MB, 1.54 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+#
+----- Native stack trace -----
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+
+----- Native stack trace -----
+
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+<--- JS stacktrace --->
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+----- Native stack trace -----
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF66623E4EB v8::SnapshotCreator::GetIsolate+50059
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 6: 00007FF665FBF568 CrashForExceptionInNonABICompliantCodeRange+371032
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+ 7: 00007FF6664FB3EC v8::Object::GetIsolate+475020
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+ 8: 00007FF6664FD58A v8::Object::GetIsolate+483626
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+16: 00007FF665C4511D node::NewContext+397
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+ 9: 00007FF6664F7437 v8::Object::GetIsolate+458711
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+
+
+
+
+10: 00007FF6664FA1B4 v8::Object::GetIsolate+470356
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+11: 00007FF6664F5A02 v8::Object::GetIsolate+452002
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+<--- Last few GCs --->
+
+
+
+
+#
+12: 00007FF6664F56B4 v8::Object::GetIsolate+451156
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+20: 00007FF665C66063 uv_poll_stop+371
+
+#
+
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+13: 00007FF6664F52A0 v8::Object::GetIsolate+450112
+17: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+21: 00007FF6674E9FFB inflateValidate+172203
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+#
+14: 00007FF6664E4C3B v8::Object::GetIsolate+382939
+18: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+<--- JS stacktrace --->
+#
+
+
+
+----- Native stack trace -----
+15: 00007FF6666D8EA8 v8::SharedValueConveyor::SharedValueConveyor+30472
+19: 00007FF666255093 v8::internal::Version::GetString+92243
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+----- Native stack trace -----
+
+
+
+
+16: 00007FF6666D2352 v8::SharedValueConveyor::SharedValueConveyor+2994
+20: 00007FF66626D79A v8::base::AddressSpaceReservation::AddressSpaceReservation+78586
+
+
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+
+
+
+17: 00007FF6666D750A v8::SharedValueConveyor::SharedValueConveyor+23914
+ 1: 00007FF665C070F7 
+21: 00007FF6662554DC v8::internal::Version::GetString+93340
+
+#
+ 1: 00007FF665C070F7 
+#
+#
+18: 00007FF6666DCD24 v8::SharedValueConveyor::SharedValueConveyor+46468
+ 2: 00007FF665ADB6EF 
+22: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF665ADB6EF 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+19: 00007FF66675685D v8::ScriptCompiler::CompileFunctionInternal+669
+ 3: 00007FF666DD5076 
+23: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+
+ 3: 00007FF666DD5076 
+
+#
+
+#
+20: 00007FF6667565B4 v8::ScriptCompiler::CompileFunction+84
+ 4: 00007FF66676F1A3 
+24: 00007FF666764E01 v8::Isolate::Initialize+433
+#
+----- Native stack trace -----
+<--- Last few GCs --->
+ 4: 00007FF66676F1A3 
+#
+----- Native stack trace -----
+----- Native stack trace -----
+#
+21: 00007FF665B782BD node::OnFatalError+55405
+ 5: 00007FF66675BCD6 
+25: 00007FF665C4511D node::NewContext+397
+----- Native stack trace -----
+
+
+ 5: 00007FF66675BCD6 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+22: 00007FF665B787F4 node::OnFatalError+56740
+ 6: 00007FF6665B8420 
+26: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+
+ 6: 00007FF6665B8420 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+
+#
+23: 00007FF60674FA64 
+ 7: 00007FF66657F441 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+27: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+#
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+<--- JS stacktrace --->
+----- Native stack trace -----
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 1: 00007FF665C070F7 
+ 8: 00007FF66657FA60 
+ 7: 00007FF66657F441 
+28: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 8: 00007FF66657FA60 
+----- Native stack trace -----
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+
+
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 2: 00007FF665ADB6EF 
+ 9: 00007FF66657F766 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+29: 00007FF665C66063 uv_poll_stop+371
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+ 3: 00007FF666DD5076 
+ 9: 00007FF66657F766 
+10: 00007FF66656F24B 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+30: 00007FF6674E9FFB inflateValidate+172203
+10: 00007FF66656F24B 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF66676F1A3 
+11: 00007FF66656E87A 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+31: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+11: 00007FF66656E87A 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 5: 00007FF66675BCD6 
+32: 00007FFF5EEEC3FC RtlUserThreadStart+44
+#
+12: 00007FF6665C6260 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+12: 00007FF6665C6260 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 6: 00007FF6665B8420 
+13: 00007FF66662A343 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+13: 00007FF66662A343 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+#
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 7: 00007FF66657F441 
+14: 00007FF66625D3B3 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+14: 00007FF66625D3B3 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+----- Native stack trace -----
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 8: 00007FF66657FA60 
+15: 00007FF666764E01 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+15: 00007FF666764E01 
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 9: 00007FF66657F766 
+16: 00007FF665C4511D 
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+16: 00007FF665C4511D 
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+10: 00007FF6665653AC 
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+11: 00007FF6665A5F56 
+17: 00007FF665A25A45 
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+17: 00007FF665A25A45 
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+18: 00007FF665A2BCE2 
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+18: 00007FF665A2BCE2 
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+12: 00007FF6665A5BE0 
+19: 00007FF665A1F5B5 
+ 1: 00007FF665C070F7 
+ 1: 00007FF665C070F7 
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+19: 00007FF665A1F5B5 
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+20: 00007FF665C66063 
+ 2: 00007FF665ADB6EF 
+ 2: 00007FF665ADB6EF 
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+20: 00007FF665C66063 
+13: 00007FF6665A52C8 
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+14: 00007FF6665A4A41 
+21: 00007FF6674E9FFB 
+ 3: 00007FF666DD5076 
+ 3: 00007FF666DD5076 
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+21: 00007FF6674E9FFB 
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+15: 00007FF666277F42 
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+ 4: 00007FF66676F1A3 
+17: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+ 4: 00007FF66676F1A3 
+16: 00007FF666279832 
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 5: 00007FF66675BCD6 
+ 5: 00007FF66675BCD6 
+17: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+18: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+17: 00007FF666275325 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 6: 00007FF6665B8420 
+ 6: 00007FF6665B8420 
+18: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+19: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+18: 00007FF666279ECF 
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 7: 00007FF66657F441 
+ 7: 00007FF66657F441 
+19: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+20: 00007FF6662554D0 v8::internal::Version::GetString+93328
+19: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+19: 00007FF666255093 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+20: 00007FF66626D79A 
+ 8: 00007FF66657FA60 
+20: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+21: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+20: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+ 8: 00007FF66657FA60 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 9: 00007FF66657F766 
+ 9: 00007FF66657F766 
+21: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+22: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+21: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+21: 00007FF66625EEBB 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+10: 00007FF66656F24B 
+10: 00007FF66656F24B 
+22: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+23: 00007FF666764E01 v8::Isolate::Initialize+433
+22: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+22: 00007FF66662A73D 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+11: 00007FF66656E87A 
+11: 00007FF66656E87A 
+23: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+24: 00007FF665C4511D node::NewContext+397
+23: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+23: 00007FF66625D3B3 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+12: 00007FF6665C6260 
+12: 00007FF6665C6260 
+24: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+25: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+24: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+24: 00007FF666764E01 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+13: 00007FF66662A343 
+13: 00007FF66662A343 
+25: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+26: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+25: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+25: 00007FF665C4511D 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+14: 00007FF66625D3B3 
+14: 00007FF66625D3B3 
+26: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+27: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+26: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+26: 00007FF665A25A45 
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+15: 00007FF666764E01 
+15: 00007FF666764E01 
+27: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+28: 00007FF665C66063 uv_poll_stop+371
+16: 00007FF665C4511D 
+27: 00007FF665A2BCE2 
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+27: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+16: 00007FF665C4511D 
+28: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+29: 00007FF6674E9FFB inflateValidate+172203
+28: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+28: 00007FF665A1F5B5 
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+17: 00007FF665A25A45 
+17: 00007FF665A25A45 
+29: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+30: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+29: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+29: 00007FF665C66063 
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+18: 00007FF665A2BCE2 
+18: 00007FF665A2BCE2 
+30: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+31: 00007FFF5EEEC3FC RtlUserThreadStart+44
+30: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+30: 00007FF6674E9FFB 
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+19: 00007FF665A1F5B5 
+19: 00007FF665A1F5B5 
+Persisting failed: Unable to commit operations
+
+Caused by:
+    Insufficient quota to complete the requested service. (os error 1453)
+31: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+31: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+31: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+15: 00007FF6665CAFC4 v8::Isolate::GetHeapProfiler+7812
+20: 00007FF665C66063 
+20: 00007FF665C66063 
+32: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+32: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+32: 00007FFF5EEEC3FC RtlUserThreadStart+44
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+16: 00007FF6665CB90A v8::Isolate::GetHeapProfiler+10186
+21: 00007FF6674E9FFB 
+21: 00007FF6674E9FFB 
+33: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+33: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+17: 00007FF666277FBF v8::base::AddressSpaceReservation::AddressSpaceReservation+121631
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+34: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+34: 00007FF6662554D0 v8::internal::Version::GetString+93328
+18: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+35: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+35: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+19: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+36: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+36: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+20: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+37: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+37: 00007FF666764E01 v8::Isolate::Initialize+433
+21: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+38: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+38: 00007FF665C4511D node::NewContext+397
+22: 00007FF6662554D0 v8::internal::Version::GetString+93328
+39: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+23: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+39: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+40: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+40: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+24: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+41: 00007FF6662554D0 v8::internal::Version::GetString+93328
+41: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+25: 00007FF666764E01 v8::Isolate::Initialize+433
+42: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+42: 00007FF665C66063 uv_poll_stop+371
+26: 00007FF665C4511D node::NewContext+397
+43: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+27: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+43: 00007FF6674E9FFB inflateValidate+172203
+44: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+44: 00007FF666764E01 v8::Isolate::Initialize+433
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+28: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+45: 00007FF665C4511D node::NewContext+397
+45: 00007FFF5EEEC3FC RtlUserThreadStart+44
+29: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+46: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+30: 00007FF665C66063 uv_poll_stop+371
+47: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+31: 00007FF6674E9FFB inflateValidate+172203
+48: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+32: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+49: 00007FF665C66063 uv_poll_stop+371
+33: 00007FFF5EEEC3FC RtlUserThreadStart+44
+50: 00007FF6674E9FFB inflateValidate+172203
+51: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+52: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+ 3: 00007FF666DD5076 
+ 4: 00007FF66676F1A3 
+ 5: 00007FF66675BCD6 
+
+
+ 6: 00007FF6665B8420 
+
+
+ 7: 00007FF66657F441 
+#
+#
+ 8: 00007FF66657FA60 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 9: 00007FF66657F4E2 
+#
+10: 00007FF6665A7F5B 
+#
+----- Native stack trace -----
+11: 00007FF6665A81C5 
+----- Native stack trace -----
+
+12: 00007FF6665A8316 
+
+13: 00007FF6665CA7E2 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+14: 00007FF666277F06 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+15: 00007FF666279832 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+
+16: 00007FF666275325 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+
+
+17: 00007FF666279ECF 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+#
+#
+18: 00007FF6665BE428 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+19: 00007FF6662554D0 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+20: 00007FF66662A795 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+21: 00007FF66625D3B3 
+#
+#
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+----- Native stack trace -----
+----- Native stack trace -----
+22: 00007FF666764E01 
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+
+
+23: 00007FF665C4511D 
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 1: 00007FF665C070F7 
+24: 00007FF665A25A45 
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 2: 00007FF665ADB6EF 
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+25: 00007FF665A2BCE2 
+ 3: 00007FF666DD5076 
+26: 00007FF665A1F5B5 
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF66676F1A3 
+27: 00007FF665C66063 
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+16: 00007FF665C4511D node::NewContext+397
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF66675BCD6 
+28: 00007FF6674E9FFB 
+16: 00007FF665C4511D node::NewContext+397
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 6: 00007FF6665B8420 
+29: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 7: 00007FF66657F441 
+30: 00007FFF5EEEC3FC RtlUserThreadStart+44
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 8: 00007FF66657FA60 
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+20: 00007FF665C66063 uv_poll_stop+371
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 9: 00007FF66657F766 
+20: 00007FF665C66063 uv_poll_stop+371
+21: 00007FF6674E9FFB inflateValidate+172203
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+10: 00007FF66656F24B 
+21: 00007FF6674E9FFB inflateValidate+172203
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+11: 00007FF66656E87A 
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+12: 00007FF6665C6260 
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+13: 00007FF66662A343 
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+14: 00007FF66625D3B3 
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+15: 00007FF666764E01 
+16: 00007FF665C4511D node::NewContext+397
+16: 00007FF665C4511D 
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+17: 00007FF665A25A45 
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+18: 00007FF665A2BCE2 
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+19: 00007FF665A1F5B5 
+20: 00007FF665C66063 uv_poll_stop+371
+20: 00007FF665C66063 
+21: 00007FF6674E9FFB inflateValidate+172203
+21: 00007FF6674E9FFB 
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+ 3: 00007FF666DD5076 
+ 4: 00007FF66676F1A3 
+ 5: 00007FF66675BCD6 
+ 6: 00007FF6665B8420 
+ 7: 00007FF66657F441 
+ 8: 00007FF66657FA60 
+ 9: 00007FF66657F766 
+10: 00007FF6665653AC 
+11: 00007FF6665A5F56 
+12: 00007FF6665A5BE0 
+13: 00007FF6665A52C8 
+14: 00007FF6665A4A41 
+15: 00007FF6665CAFC4 
+16: 00007FF6665CB90A 
+17: 00007FF666277FBF 
+18: 00007FF666279832 
+19: 00007FF6662743F9 
+20: 00007FF66627910C 
+21: 00007FF666279942 
+22: 00007FF6662743F9 
+23: 00007FF66627910C 
+24: 00007FF666279942 
+25: 00007FF6662743F9 
+26: 00007FF66627910C 
+27: 00007FF666279942 
+28: 00007FF6662743F9 
+29: 00007FF66627910C 
+
+30: 00007FF666279942 
+
+31: 00007FF666275325 
+#
+
+32: 00007FF666279ECF 
+
+# Fatal error in , line 0
+<--- Last few GCs --->
+33: 00007FF6665BE428 
+<--- Last few GCs --->
+# Out of memory: HashMap::Initialize
+
+34: 00007FF6662554D0 
+
+#
+
+35: 00007FF66662A795 
+[47776:00000251A7660000]     7387 ms: Scavenge 6.5 (7.1) -> 5.7 (7.8) MB, pooled: 0 MB, 1.03 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+#
+<--- JS stacktrace --->
+36: 00007FF66625D3B3 
+[47776:00000251A7660000]     7534 ms: Scavenge 6.3 (7.8) -> 6.1 (7.3) MB, pooled: 1 MB, 0.98 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+#
+
+37: 00007FF666764E01 
+[47776:00000251A7660000]     8046 ms: Scavenge 7.7 (8.1) -> 7.3 (11.6) MB, pooled: 0 MB, 1.35 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+#FailureMessage Object: 000000E0F47F8400
+
+38: 00007FF665C4511D 
+
+----- Native stack trace -----
+
+39: 00007FF665A25A45 
+
+#
+40: 00007FF665A2BCE2 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+41: 00007FF665A1F5B5 
+<--- JS stacktrace --->
+#
+42: 00007FF665C66063 
+
+----- Native stack trace -----
+43: 00007FF6674E9FFB 
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+44: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+ 1: 00007FF665C070F7 
+45: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+ 3: 00007FF666DD5415 
+ 2: 00007FF665ADB6EF 
+ 4: 00007FF66674D5B3 
+ 3: 00007FF666DD5076 
+ 1: 00007FF665C070F7 
+ 5: 00007FF66674D046 
+ 4: 00007FF66676F1A3 
+ 6: 00007FF66674D2EC 
+ 5: 00007FF66675BCD6 
+ 2: 00007FF665B6AA18 
+ 7: 00007FF66674D188 
+ 6: 00007FF6665B8420 
+ 3: 00007FF66676F151 
+ 8: 00007FF666316530 
+ 7: 00007FF66657F441 
+ 4: 00007FF66675BCD6 
+ 9: 00007FF666353896 
+ 8: 00007FF66657FA60 
+ 5: 00007FF6665B8420 
+10: 00007FF66634F53F 
+ 9: 00007FF66657F766 
+ 6: 00007FF6665951A0 
+11: 00007FF66634C889 
+10: 00007FF6665653AC 
+ 7: 00007FF6665BF0BB 
+12: 00007FF6663410B4 
+11: 00007FF6665A5F56 
+ 8: 00007FF6665C16CE 
+13: 00007FF66634667E 
+12: 00007FF6665A5BE0 
+ 9: 00007FF6665B14ED 
+14: 00007FF66634F2B7 
+13: 00007FF6665A52C8 
+10: 00007FF6665AD0A5 
+15: 00007FF66634C889 
+14: 00007FF6665A4A41 
+11: 00007FF665F36C2D 
+16: 00007FF6663410B4 
+15: 00007FF6665CAFC4 
+12: 7FF8000000000000 
+17: 00007FF6663449CE 
+16: 00007FF6665CB90A 
+18: 00007FF6663410D6 
+17: 00007FF666277FBF 
+19: 00007FF66634667E 
+18: 00007FF666279832 
+20: 00007FF666350E40 
+19: 00007FF666275325 
+21: 00007FF66635186D 
+20: 00007FF666279ECF 
+
+22: 00007FF666349E08 
+21: 00007FF666255093 
+<--- Last few GCs --->
+23: 00007FF666340CFD 
+22: 00007FF6665BE519 
+
+24: 00007FF666341271 
+23: 00007FF6662554D0 
+[40884:000002C3DF955000]      111 ms: Scavenge 6.5 (8.1) -> 5.7 (10.0) MB, pooled: 0 MB, 1.06 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+25: 00007FF666341101 
+24: 00007FF66662A795 
+[40884:000002C3DF955000]     2315 ms: Scavenge 8.3 (10.6) -> 7.4 (11.1) MB, pooled: 0 MB, 2031.16 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+26: 00007FF66634004E 
+25: 00007FF66625D3B3 
+
+
+27: 00007FF66634C3BE 
+26: 00007FF666764E01 
+<--- Last few GCs --->
+
+28: 00007FF66634C8C7 
+27: 00007FF665C4511D 
+
+<--- JS stacktrace --->
+29: 00007FF6663410B4 
+28: 00007FF665A25A45 
+[42148:0000026CF7540000]     8342 ms: Scavenge 5.6 (6.5) -> 5.1 (6.2) MB, pooled: 1 MB, 0.68 / 0.00 ms  (average mu = 0.983, current mu = 0.984) allocation failure; 
+
+30: 00007FF6663415BE 
+29: 00007FF665A2BCE2 
+[42148:0000026CF7540000]     8345 ms: Scavenge 6.4 (7.0) -> 5.6 (7.8) MB, pooled: 0 MB, 0.75 / 0.00 ms  (average mu = 0.983, current mu = 0.984) allocation failure; 
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+31: 00007FF666341101 
+30: 00007FF665A1F5B5 
+[42148:0000026CF7540000]     8360 ms: Scavenge 6.2 (7.8) -> 6.0 (7.2) MB, pooled: 1 MB, 0.66 / 0.00 ms  (average mu = 0.983, current mu = 0.984) allocation failure; 
+----- Native stack trace -----
+32: 00007FF66634667E 
+31: 00007FF665C66063 
+
+
+33: 00007FF666346B2E 
+32: 00007FF6674E9FFB 
+34: 00007FF6663528BF 
+
+33: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+35: 00007FF666349E08 
+<--- JS stacktrace --->
+
+36: 00007FF666340CFD 
+34: 00007FFF5EEEC3FC RtlUserThreadStart+44
+37: 00007FF666341271 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF665C070F7 
+38: 00007FF666341101 
+----- Native stack trace -----
+ 2: 00007FF665B6AA18 
+39: 00007FF66634667E 
+
+ 3: 00007FF66676F151 
+40: 00007FF66634F2B7 
+ 4: 00007FF66675BCD6 
+ 1: 00007FF665C070F7 
+41: 00007FF66634C889 
+ 5: 00007FF6665B8420 
+ 2: 00007FF665B6AA18 
+42: 00007FF6663410B4 
+ 6: 00007FF6665951A0 
+ 3: 00007FF66676F151 
+43: 00007FF66634667E 
+ 7: 00007FF6665BF0BB 
+ 4: 00007FF66675BCD6 
+44: 00007FF666346B2E 
+ 8: 00007FF6665C16CE 
+ 5: 00007FF6665B8420 
+45: 00007FF6663528BF 
+ 9: 00007FF6665B14ED 
+ 6: 00007FF66657007D 
+46: 00007FF666349E08 
+10: 00007FF6665AD0A5 
+ 7: 00007FF6665C1663 
+47: 00007FF666340CFD 
+11: 00007FF665F36C2D 
+ 8: 00007FF6665B14ED 
+48: 00007FF666341271 
+12: 7FF8000000000000 
+ 9: 00007FF6665AD0A5 
+49: 00007FF666341101 
+10: 00007FF665F36C2D 
+50: 00007FF66634667E 
+11: 7FF8000000000000 
+51: 00007FF66634F2B7 
+52: 00007FF66634C889 
+53: 00007FF6663410B4 
+54: 00007FF66634667E 
+55: 00007FF666346B2E 
+56: 00007FF6663528BF 
+57: 00007FF666349E08 
+58: 00007FF666349107 
+59: 00007FF66634A82A 
+60: 00007FF66633BCCD 
+61: 00007FF66634F81D 
+
+62: 00007FF666334D3C 
+
+63: 00007FF6666D7200 
+#
+64: 00007FF6666DCD24 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+65: 00007FF66675685D 
+#
+66: 00007FF6667565B4 
+----- Native stack trace -----
+67: 00007FF665B782BD 
+
+68: 00007FF665B787F4 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+69: 00007FF60674FA64 
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+16: 00007FF665C4511D node::NewContext+397
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+20: 00007FF665C66063 uv_poll_stop+371
+21: 00007FF6674E9FFB inflateValidate+172203
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+<--- Last few GCs --->
+
+[15804:0000021A5CCFC000]     8341 ms: Scavenge 6.4 (7.1) -> 5.6 (7.8) MB, pooled: 0 MB, 3.30 / 0.00 ms  (average mu = 0.676, current mu = 0.676) allocation failure; 
+[15804:0000021A5CCFC000]     8564 ms: Scavenge 6.2 (7.8) -> 6.1 (7.3) MB, pooled: 1 MB, 11.38 / 0.00 ms  (average mu = 0.676, current mu = 0.676) allocation failure; 
+[15804:0000021A5CCFC000]     8789 ms: Scavenge 7.6 (8.1) -> 7.2 (11.3) MB, pooled: 0 MB, 33.48 / 0.00 ms  (average mu = 0.676, current mu = 0.676) allocation failure; 
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 6: 00007FF6665951A0 v8::CpuProfileNode::GetScriptResourceNameStr+92560
+ 7: 00007FF6665BF0BB v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+61707
+ 8: 00007FF6665C16CE v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71454
+ 9: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+10: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+11: 00007FF665F36C2D BIO_ssl_shutdown+189
+12: 7FF8000000000000 
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- Last few GCs --->
+----- Native stack trace -----
+
+
+
+<--- JS stacktrace --->
+
+
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+ 3: 00007FF666DD5076 
+ 1: 00007FF665C070F7 
+ 4: 00007FF66676F1A3 
+ 5: 00007FF66675BCD6 
+ 2: 00007FF665B6AA18 
+ 6: 00007FF6665B8420 
+ 3: 00007FF66676F151 
+ 7: 00007FF66657F441 
+ 4: 00007FF66675BCD6 
+ 8: 00007FF66657FA60 
+ 5: 00007FF6665B8420 
+ 9: 00007FF66657F766 
+ 6: 00007FF66657007D 
+10: 00007FF6665653AC 
+ 7: 00007FF6665C1663 
+11: 00007FF6665A5F56 
+ 8: 00007FF6665B14ED 
+12: 00007FF6665A5BE0 
+ 9: 00007FF6665AD0A5 
+13: 00007FF6665A52C8 
+10: 00007FF665F36C2D 
+14: 00007FF6665A4A41 
+15: 00007FF6665CAFC4 
+16: 00007FF6665CB90A 
+17: 00007FF666277FBF 
+18: 00007FF666279832 
+19: 00007FF6662743F9 
+20: 00007FF66627910C 
+21: 00007FF666279942 
+22: 00007FF6662743F9 
+23: 00007FF66627910C 
+24: 00007FF666279942 
+25: 00007FF6662743F9 
+26: 00007FF66627910C 
+27: 00007FF666279942 
+28: 00007FF6662743F9 
+29: 00007FF66627910C 
+30: 00007FF666279942 
+31: 00007FF666275325 
+32: 00007FF666279ECF 
+33: 00007FF6665BE428 
+34: 00007FF6662554D0 
+35: 00007FF66662A795 
+36: 00007FF66625D3B3 
+37: 00007FF666764E01 
+
+38: 00007FF665C4511D 
+<--- Last few GCs --->
+39: 00007FF665A25A45 
+
+40: 00007FF665A2BCE2 
+
+
+[63256:00000232BF00C000]      109 ms: Scavenge 3.6 (5.1) -> 3.2 (5.6) MB, pooled: 0 MB, 0.90 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+41: 00007FF665A1F5B5 
+
+<--- Last few GCs --->
+
+42: 00007FF665C66063 
+#
+
+43: 00007FF6674E9FFB 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+[15888:000001ADC141B000]     7197 ms: Scavenge 3.6 (4.1) -> 3.2 (4.6) MB, pooled: 1 MB, 2.70 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+44: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+<--- JS stacktrace --->
+#
+
+45: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+----- Native stack trace -----
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+
+<--- JS stacktrace --->
+----- Native stack trace -----
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+----- Native stack trace -----
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+
+ 2: 00007FF665B6AA18 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 3: 00007FF66676F151 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 4: 00007FF66675BCD6 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 5: 00007FF6665B8420 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 6: 00007FF6665951A0 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 7: 00007FF6665BF0BB 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+ 8: 00007FF6665C16CE 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+ 9: 00007FF6665B14ED 
+10: 00007FF66656F24B v8::FixedArray::Length+127115
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+10: 00007FF6665AD0A5 
+11: 00007FF66656E87A v8::FixedArray::Length+124602
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+11: 00007FF665F36C2D 
+12: 00007FF6665C6260 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+90800
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+13: 00007FF66662A343 v8::base::CPU::has_sse41+73859
+14: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+15: 00007FF666764E01 v8::Isolate::Initialize+433
+16: 00007FF665C4511D node::NewContext+397
+17: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+18: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+19: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+20: 00007FF665C66063 uv_poll_stop+371
+
+21: 00007FF6674E9FFB inflateValidate+172203
+
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+#
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+# Fatal process out of memory: Re-embedded builtins: set permissions
+#
+----- Native stack trace -----
+
+
+<--- Last few GCs --->
+
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+<--- JS stacktrace --->
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+----- Native stack trace -----
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 6: 00007FF66660521A v8::CppHeap::wrapper_descriptor+55594
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 7: 00007FF66662C32A v8::base::CPU::has_sse41+82026
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 8: 00007FF66662A30F v8::base::CPU::has_sse41+73807
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 9: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+10: 00007FF666764E01 v8::Isolate::Initialize+433
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+11: 00007FF665C4511D node::NewContext+397
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+12: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+13: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+14: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+15: 00007FF665C66063 uv_poll_stop+371
+16: 00007FF6674E9FFB inflateValidate+172203
+17: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+18: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+
+#
+# Fatal process out of memory: Re-embedded builtins: set permissions
+#
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+ 3: 00007FF666DD5076 
+ 4: 00007FF66676F1A3 
+ 5: 00007FF66675BCD6 
+ 6: 00007FF66660521A 
+ 7: 00007FF66662C32A 
+ 8: 00007FF66662A30F 
+ 9: 00007FF66625D3B3 
+10: 00007FF666764E01 
+11: 00007FF665C4511D 
+12: 00007FF665A25A45 
+13: 00007FF665A2BCE2 
+14: 00007FF665A1F5B5 
+15: 00007FF665C66063 
+16: 00007FF6674E9FFB 
+17: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+18: 00007FFF5EEEC3FC RtlUserThreadStart+44
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+
+<--- Last few GCs --->
+
+[28352:000001F80660E000]      108 ms: Scavenge 5.0 (6.6) -> 4.7 (9.4) MB, pooled: 0 MB, 1.23 / 0.00 ms  (average mu = 1.000, current mu = 1.000) task; 
+[28352:000001F80660E000]    11010 ms: Mark-Compact (reduce) 5.6 (9.6) -> 4.9 (6.6) MB, pooled: 0 MB, 2759.94 / 0.01 ms  (+ 26.8 ms in 0 steps since start of marking, biggest step 0.0 ms, walltime since start of marking 2792 ms) (average mu = 0.747, curren
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 6: 00007FF66657007D v8::FixedArray::Length+130749
+ 7: 00007FF6665C1663 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71347
+ 8: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+ 9: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+10: 00007FF665F36C2D BIO_ssl_shutdown+189
+
+
+#
+# Fatal error in , line 0
+# Out of memory: HashMap::Initialize
+#
+#
+
+#
+<--- Last few GCs --->
+#FailureMessage Object: 000000B5BE3FB2C0
+
+----- Native stack trace -----
+[3032:00000169F7CF2000]    15336 ms: Scavenge 6.4 (7.0) -> 6.3 (8.8) MB, pooled: 0 MB, 1.08 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[3032:00000169F7CF2000]    15511 ms: Scavenge 8.1 (9.3) -> 7.5 (8.8) MB, pooled: 1 MB, 0.62 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3032:00000169F7CF2000]    19691 ms: Scavenge 9.0 (9.6) -> 8.6 (10.8) MB, pooled: 0 MB, 1.47 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+ 1: 00007FF665C070F7 
+ 2: 00007FF665ADB6EF 
+
+ 3: 00007FF666DD5415 
+<--- JS stacktrace --->
+ 4: 00007FF66674D5B3 
+
+ 5: 00007FF66674D046 
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+ 6: 00007FF66674D2EC 
+----- Native stack trace -----
+ 7: 00007FF66674D14B 
+
+ 8: 00007FF666316580 
+ 9: 00007FF66634FD58 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+10: 00007FF66634DB5A 
+ 2: 00007FF665B6AA18 v8::base::CPU::num_virtual_address_bits+102920
+11: 00007FF66634D861 
+ 3: 00007FF66676F151 v8::Isolate::ReportExternalAllocationLimitReached+65
+12: 00007FF66634F19A 
+ 4: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+13: 00007FF66634C889 
+ 5: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+14: 00007FF6663410B4 
+ 6: 00007FF6665951A0 v8::CpuProfileNode::GetScriptResourceNameStr+92560
+15: 00007FF66634E624 
+ 7: 00007FF6665BF0BB v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+61707
+16: 00007FF66634DC5A 
+ 8: 00007FF6665C16CE v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+71454
+17: 00007FF66634D861 
+ 9: 00007FF6665B14ED v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5437
+18: 00007FF66634F19A 
+10: 00007FF6665AD0A5 v8::CpuProfileNode::GetScriptResourceNameStr+190613
+19: 00007FF66634C889 
+11: 00007FF665F36C2D BIO_ssl_shutdown+189
+20: 00007FF6663410B4 
+12: 7FF8000000000000 
+21: 00007FF6663545F9 
+22: 00007FF666354955 
+23: 00007FF666349E08 
+24: 00007FF666349107 
+25: 00007FF66634A82A 
+26: 00007FF66633BCCD 
+27: 00007FF66634F81D 
+28: 00007FF666334D3C 
+29: 00007FF6666D7200 
+30: 00007FF6666DCD24 
+31: 00007FF66675685D 
+32: 00007FF6667565B4 
+33: 00007FF665B782BD 
+34: 00007FF665B787F4 
+35: 00007FF60674FA64 
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+
+
+
+#
+<--- Last few GCs --->
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+#
+[24876:000001C17A7F0000]    13751 ms: Scavenge 8.4 (10.1) -> 8.0 (9.3) MB, pooled: 1 MB, 1.72 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+[24876:000001C17A7F0000]    13850 ms: Scavenge 9.2 (10.1) -> 8.8 (11.3) MB, pooled: 0 MB, 0.83 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[24876:000001C17A7F0000]    14058 ms: Scavenge 9.5 (11.3) -> 9.1 (10.6) MB, pooled: 1 MB, 0.94 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+ 1: 00007FF665C070F7 
+
+ 2: 00007FF665ADB6EF 
+
+ 3: 00007FF666DD5076 
+<--- JS stacktrace --->
+ 4: 00007FF66676F1A3 
+
+ 5: 00007FF66675BCD6 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 6: 00007FF6665B8420 
+----- Native stack trace -----
+ 7: 00007FF66657F441 
+
+ 8: 00007FF66657FA60 
+ 9: 00007FF66657F766 
+10: 00007FF6665653AC 
+ 1: 00007FF665C070F7 
+11: 00007FF6665A5F56 
+ 2: 00007FF665B6AA18 
+12: 00007FF6665A5BE0 
+ 3: 00007FF66676F151 
+ 4: 00007FF66675BCD6 
+13: 00007FF6665A52C8 
+14: 00007FF6665A4A41 
+ 5: 00007FF6665B8420 
+15: 00007FF6665CAFC4 
+ 6: 00007FF66657007D 
+16: 00007FF6665CB90A 
+ 7: 00007FF6665C1663 
+17: 00007FF666277FBF 
+ 8: 00007FF6665B14ED 
+18: 00007FF666279832 
+ 9: 00007FF6665AD0A5 
+19: 00007FF6662743F9 
+10: 00007FF665F36C2D 
+20: 00007FF66627910C 
+11: 7FF8000000000000 
+21: 00007FF666279942 
+22: 00007FF6662743F9 
+23: 00007FF66627910C 
+24: 00007FF666279942 
+25: 00007FF6662743F9 
+26: 00007FF66627910C 
+27: 00007FF666279942 
+28: 00007FF6662743F9 
+29: 00007FF66627910C 
+30: 00007FF666279942 
+31: 00007FF666275325 
+32: 00007FF666279ECF 
+33: 00007FF6665BE428 
+34: 00007FF6662554D0 
+35: 00007FF66662A795 
+36: 00007FF66625D3B3 
+37: 00007FF666764E01 
+38: 00007FF665C4511D 
+39: 00007FF665A25A45 
+40: 00007FF665A2BCE2 
+41: 00007FF665A1F5B5 
+42: 00007FF665C66063 
+43: 00007FF6674E9FFB 
+44: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+45: 00007FFF5EEEC3FC 
+
+
+
+#
+
+# Fatal error in , line 0
+
+#
+# Check failed: (result.ptr) != nullptr.
+# Fatal error in , line 0
+#
+# Check failed: (result.ptr) != nullptr.
+#
+#
+#
+#FailureMessage Object: 000000205C3FAC20
+#
+----- Native stack trace -----
+#
+#FailureMessage Object: 00000008C5FFF1F0
+----- Native stack trace -----
+
+
+<--- Last few GCs --->
+
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+
+ 3: 00007FF666DD5415 V8_Fatal+197
+<--- JS stacktrace --->
+ 4: 00007FF666559E5B v8::FixedArray::Length+40091
+
+ 5: 00007FF6665553DA v8::FixedArray::Length+21018
+
+ 6: 00007FF66655224A v8::FixedArray::Length+8330
+
+ 7: 00007FF6665520F4 v8::FixedArray::Length+7988
+#
+ 8: 00007FF666552634 v8::FixedArray::Length+9332
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 9: 00007FF66655BBC0 v8::FixedArray::Length+47616
+#
+10: 00007FF66655B329 v8::FixedArray::Length+45417
+----- Native stack trace -----
+11: 00007FF66655B9ED v8::FixedArray::Length+47149
+
+12: 00007FF666960926 v8::PropertyDescriptor::writable+1996790
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+13: 00007FF665ADE490 OSSL_STORE_LOADER_get0_description+784
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+14: 00007FF665C66063 uv_poll_stop+371
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+15: 00007FF6674E9FFB inflateValidate+172203
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+16: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+17: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+17: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+18: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+19: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+20: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+21: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+22: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+23: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+24: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+25: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+26: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+27: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+28: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+29: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+30: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+31: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+32: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+33: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+34: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+35: 00007FF6662743F9 v8::base::AddressSpaceReservation::AddressSpaceReservation+106329
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+36: 00007FF66627910C v8::base::AddressSpaceReservation::AddressSpaceReservation+126060
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+37: 00007FF666279942 v8::base::AddressSpaceReservation::AddressSpaceReservation+128162
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+38: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+39: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+40: 00007FF6665BE428 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+58488
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+41: 00007FF6662554D0 v8::internal::Version::GetString+93328
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+42: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+43: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+44: 00007FF666764E01 v8::Isolate::Initialize+433
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+45: 00007FF665C4511D node::NewContext+397
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+46: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+47: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+48: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+49: 00007FF665C66063 uv_poll_stop+371
+50: 00007FF6674E9FFB inflateValidate+172203
+51: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+52: 00007FFF5EEEC3FC RtlUserThreadStart+44
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+
+
+
+#
+
+<--- Last few GCs --->
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+
+#
+
+<--- JS stacktrace --->
+----- Native stack trace -----
+ 1: 00007FF665C070F7 
+
+
+ 2: 00007FF665ADB6EF 
+
+ 1: 00007FF665C070F7 
+ 3: 00007FF666DD5076 
+
+ 2: 00007FF665ADB6EF 
+ 4: 00007FF66676F1A3 
+#
+ 3: 00007FF666DD5076 
+ 5: 00007FF66675BCD6 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 4: 00007FF66676F1A3 
+ 6: 00007FF6665B8420 
+#
+ 5: 00007FF66675BCD6 
+ 7: 00007FF66657F441 
+----- Native stack trace -----
+ 6: 00007FF6665B8420 
+ 8: 00007FF66657FA60 
+
+ 7: 00007FF66657F441 
+ 9: 00007FF66657F766 
+ 1: 00007FF665C070F7 
+ 8: 00007FF66657FA60 
+10: 00007FF66656F24B 
+ 2: 00007FF665ADB6EF 
+ 9: 00007FF66657F766 
+11: 00007FF66656E87A 
+ 3: 00007FF666DD5076 
+10: 00007FF66656F24B 
+12: 00007FF6665C6260 
+ 4: 00007FF66676F1A3 
+Error: Can't resolve 'tailwindcss' in 'C:\Users\ossama\Downloads'
+    [2m[at finishWithoutResolve (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\enhanced-resolve@5.19.0\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (C:\Users\ossama\Downloads\PORTFOLIO\node_modules\.pnpm\tapable@2.3.0\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\ossama\\Downloads'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\ossama\\Downloads or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\ossama\\Downloads\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\ossama\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory\n" +
+    '    looking for modules in C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\n' +
+    '      single file module\n' +
+    '        using description file: C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\package.json (relative path: ./node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules;C:/Users/ossama/Downloads/PORTFOLIO/node_modules/.pnpm/node_modules/tailwindcss)\n' +
+    '          no extension\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist\n" +
+    '          .css\n' +
+    "            C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss.css doesn't exist\n" +
+    "      C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules\\next\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4\\node_modules;C:\\Users\\ossama\\Downloads\\PORTFOLIO\\node_modules\\.pnpm\\node_modules\\tailwindcss doesn't exist"
+}
+11: 00007FF66656E87A 
+13: 00007FF66662A343 
+ 5: 00007FF66675BCD6 
+12: 00007FF6665C6260 
+14: 00007FF66625D3B3 
+ 6: 00007FF6665B8420 
+13: 00007FF66662A343 
+15: 00007FF666764E01 
+ 7: 00007FF66657F441 
+14: 00007FF66625D3B3 
+16: 00007FF665C4511D 
+ 8: 00007FF66657FA60 
+15: 00007FF666764E01 
+17: 00007FF665A25A45 
+ 9: 00007FF66657F4E2 
+16: 00007FF665C4511D 
+18: 00007FF665A2BCE2 
+10: 00007FF6665A7F5B 
+17: 00007FF665A25A45 
+19: 00007FF665A1F5B5 
+18: 00007FF665A2BCE2 
+11: 00007FF6665A81C5 
+20: 00007FF665C66063 
+12: 00007FF6665A8316 
+13: 00007FF6665CA7E2 
+21: 00007FF6674E9FFB 
+19: 00007FF665A1F5B5 
+20: 00007FF665C66063 
+22: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+14: 00007FF666277F06 
+21: 00007FF6674E9FFB 
+23: 00007FFF5EEEC3FC RtlUserThreadStart+44
+15: 00007FF666279832 
+22: 00007FFF5D6DE8D7 
+16: 00007FF666275325 
+23: 00007FFF5EEEC3FC 
+17: 00007FF666279ECF 
+18: 00007FF6665BE428 
+19: 00007FF6662554D0 
+
+20: 00007FF66662A795 
+
+<--- Last few GCs --->
+21: 00007FF66625D3B3 
+<--- Last few GCs --->
+
+22: 00007FF666764E01 
+
+
+23: 00007FF665C4511D 
+<--- JS stacktrace --->
+24: 00007FF665A25A45 
+
+25: 00007FF665A2BCE2 
+
+<--- JS stacktrace --->
+
+26: 00007FF665A1F5B5 
+
+
+27: 00007FF665C66063 
+
+#
+28: 00007FF6674E9FFB 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+29: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+#
+#
+30: 00007FFF5EEEC3FC RtlUserThreadStart+44
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+#
+
+----- Native stack trace -----
+ 1: 00007FF665C070F7 
+
+ 2: 00007FF665ADB6EF 
+ 1: 00007FF665C070F7 node::SetCppgcReference+18039
+ 3: 00007FF666DD5076 
+ 2: 00007FF665ADB6EF node::TriggerNodeReport+71487
+ 4: 00007FF66676F1A3 
+ 3: 00007FF666DD5076 v8::base::FatalOOM+54
+ 5: 00007FF66675BCD6 
+ 4: 00007FF66676F1A3 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF6665B8420 
+ 5: 00007FF66675BCD6 v8::Function::Experimental_IsNopFunction+3302
+ 7: 00007FF66657F441 
+ 6: 00007FF6665B8420 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+33904
+ 8: 00007FF66657FA60 
+ 7: 00007FF66657F441 v8::CpuProfileNode::GetScriptResourceNameStr+3121
+ 9: 00007FF66657F766 
+ 8: 00007FF66657FA60 v8::CpuProfileNode::GetScriptResourceNameStr+4688
+10: 00007FF6665653AC 
+ 9: 00007FF66657F766 v8::CpuProfileNode::GetScriptResourceNameStr+3926
+
+11: 00007FF6665A5F56 
+
+10: 00007FF6665653AC v8::FixedArray::Length+86508
+<--- Last few GCs --->
+12: 00007FF6665A5BE0 
+<--- Last few GCs --->
+11: 00007FF6665A5F56 v8::CpuProfileNode::GetScriptResourceNameStr+161606
+
+13: 00007FF6665A52C8 
+
+12: 00007FF6665A5BE0 v8::CpuProfileNode::GetScriptResourceNameStr+160720
+[53284:000001F079A91000]     5170 ms: Scavenge 6.4 (8.0) -> 6.4 (11.0) MB, pooled: 0 MB, 3017.59 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+14: 00007FF6665A4A41 
+13: 00007FF6665A52C8 v8::CpuProfileNode::GetScriptResourceNameStr+158392
+
+[53284:000001F079A91000]     5383 ms: Scavenge 9.1 (11.4) -> 8.2 (11.9) MB, pooled: 0 MB, 1.07 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+15: 00007FF6665CAFC4 
+14: 00007FF6665A4A41 v8::CpuProfileNode::GetScriptResourceNameStr+156209
+<--- JS stacktrace --->
+
+16: 00007FF6665CB90A 
+15: 00007FF666277F42 v8::base::AddressSpaceReservation::AddressSpaceReservation+121506
+
+17: 00007FF666277FBF 
+
+16: 00007FF666279832 v8::base::AddressSpaceReservation::AddressSpaceReservation+127890
+
+18: 00007FF666279832 
+<--- JS stacktrace --->
+17: 00007FF666275325 v8::base::AddressSpaceReservation::AddressSpaceReservation+110213
+
+19: 00007FF666275325 
+
+18: 00007FF666279ECF v8::base::AddressSpaceReservation::AddressSpaceReservation+129583
+#
+20: 00007FF666279ECF 
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+19: 00007FF666255093 v8::internal::Version::GetString+92243
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+21: 00007FF6665BE428 
+20: 00007FF66626D79A v8::base::AddressSpaceReservation::AddressSpaceReservation+78586
+#
+22: 00007FF6662554D0 
+
+21: 00007FF6662554DC v8::internal::Version::GetString+93340
+----- Native stack trace -----
+23: 00007FF66662A795 
+ 1: 00007FF665C070F7 
+22: 00007FF66662A795 v8::base::CPU::has_sse41+74965
+
+24: 00007FF66625D3B3 
+ 2: 00007FF665B6AA18 
+23: 00007FF66625D3B3 v8::base::AddressSpaceReservation::AddressSpaceReservation+12051
+25: 00007FF666764E01 
+ 3: 00007FF66676F151 
+24: 00007FF666764E01 v8::Isolate::Initialize+433
+ 1: 00007FF665C070F7 
+26: 00007FF665C4511D 
+ 4: 00007FF66675BCD6 
+25: 00007FF665C4511D node::NewContext+397
+ 2: 00007FF665ADB6EF 
+27: 00007FF665A25A45 
+ 5: 00007FF6665B8420 
+26: 00007FF665A25A45 X509_CRL_get_meth_data+141621
+ 3: 00007FF666DD5076 
+28: 00007FF665A2BCE2 
+ 6: 00007FF6665951A0 
+27: 00007FF665A2BCE2 X509_CRL_get_meth_data+166866
+ 4: 00007FF66676F1A3 
+29: 00007FF665A1F5B5 
+ 7: 00007FF6665BF0BB 
+30: 00007FF665C66063 
+ 5: 00007FF66675BCD6 
+28: 00007FF665A1F5B5 X509_CRL_get_meth_data+115877
+ 8: 00007FF6665C16CE 
+29: 00007FF665C66063 uv_poll_stop+371
+ 6: 00007FF6665B8420 
+31: 00007FF6674E9FFB 
+ 9: 00007FF6665B14ED 
+30: 00007FF6674E9FFB inflateValidate+172203
+ 7: 00007FF66657F441 
+32: 00007FFF5D6DE8D7 
+10: 00007FF6665AD0A5 
+31: 00007FFF5D6DE8D7 BaseThreadInitThunk+23
+ 8: 00007FF66657FA60 
+33: 00007FFF5EEEC3FC 
+11: 00007FF665F36C2D 
+32: 00007FFF5EEEC3FC RtlUserThreadStart+44
+ 9: 00007FF66657F766 
+12: 7FF8000000000000 
+10: 00007FF6665653AC 
+11: 00007FF6665A5F56 

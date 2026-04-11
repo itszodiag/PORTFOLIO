@@ -1,0 +1,176 @@
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)",
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)", {
+  page: '/'
+}
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)",
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)", {
+  page: '/'
+}
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)",
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)", {
+  page: '/'
+}
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)",
+⨯ ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)", {
+  page: '/'
+}
+[browser] Uncaught ReferenceError: Globe is not defined
+    at eval (components\projects-section.tsx:17:9)
+    at <unknown> (rsc)/./components/projects-section.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:121:1)
+    at eval (webpack-internal:///(rsc)/./app/page.tsx:11:86)
+    at <unknown> (rsc)/./app/page.tsx (C:\Users\ossama\Downloads\PORTFOLIO\.next\dev\server\app\page.js:44:1)
+  15 |   description:
+  16 |     "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my...
+> 17 |   icon: Globe,
+     |         ^
+  18 |   stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  19 |   features: [
+  20 |     "User Authentication System (Login/Register)",
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] ./components/skills-section.tsx
+Error:   x Expression expected
+    ,-[C:\Users\ossama\Downloads\PORTFOLIO\components\skills-section.tsx:27:1]
+ 24 |     skills: [
+ 25 |       { name: "MySQL", level: 80 },
+ 26 |       { name: "Database Design", level: 70 },
+ 27 | +    ],
+    :      ^
+ 28 |   },
+ 29 |   {
+ 30 |     title: "Tools & DevOps",
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/skills-section.tsx
+./app/page.tsx 
+[browser] ./components/skills-section.tsx
+Error:   x Expression expected
+    ,-[C:\Users\ossama\Downloads\PORTFOLIO\components\skills-section.tsx:27:1]
+ 24 |     skills: [
+ 25 |       { name: "MySQL", level: 80 },
+ 26 |       { name: "Database Design", level: 70 }
+ 27 | +    ],
+    :      ^
+ 28 |   },
+ 29 |   {
+ 30 |     title: "Tools & DevOps",
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/skills-section.tsx
+./app/page.tsx 
+⨯ ./components/skills-section.tsx
+Error:   x Expression expected
+    ,-[C:\Users\ossama\Downloads\PORTFOLIO\components\skills-section.tsx:27:1]
+ 24 |     skills: [
+ 25 |       { name: "MySQL", level: 80 },
+ 26 |       { name: "Database Design", level: 70 }
+ 27 | +    ],
+    :      ^
+ 28 |   },
+ 29 |   {
+ 30 |     title: "Tools & DevOps",
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/skills-section.tsx
+./app/page.tsx
