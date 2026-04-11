@@ -77,3 +77,4 @@
  GET / 200 in 429ms (next.js: 165ms, application-code: 264ms)
  GET / 200 in 499ms (next.js: 174ms, application-code: 325ms)
  GET / 200 in 1322ms (next.js: 25ms, application-code: 1296ms)
+ ELIFECYCLE  Command failed with exit code 3221225786.

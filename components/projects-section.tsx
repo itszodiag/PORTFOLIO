@@ -1,5 +1,6 @@
-import { Wrench, Plane, Brain, Mail } from "lucide-react"
+import { ExternalLink, Wrench } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
 
 const projects = [
   {
@@ -7,23 +8,26 @@ const projects = [
     description:
       "A comprehensive platform where users can request maintenance services online. Features a complete authentication system, request management, and an admin dashboard for service providers.",
     icon: Wrench,
+  
+    status: "En cours",
     stack: ["Laravel", "MySQL", "Blade", "Tailwind CSS"],
     features: ["User Authentication", "Request System", "Admin Dashboard", "Real-time Status Updates"],
   },
   {
-  title: "Personal Portfolio Website",
-  description:
-    "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my projects, skills, and experience. It includes a secure authentication system and a contact form connected to a MySQL database.",
-  icon: Wrench,
-  stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-  features: [
-    "User Authentication System (Login/Register)",
-    "Admin Panel to Manage Projects",
-    "Project Filtering by Programming Language",
-    "Contact Form with Database Storage",
-    "Responsive Design for All Devices",
-  ],
-}
+    title: "Personal Portfolio Website",
+    description:
+      "A dynamic portfolio website built using HTML, CSS, JavaScript, and PHP, showcasing my projects, skills, and experience. It includes a secure authentication system and a contact form connected to a MySQL database.",
+    icon: Wrench,
+    projectLink: "https://aymen.infinityfree.me/",
+    stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    features: [
+      "User Authentication System (Login/Register)",
+      "Admin Panel to Manage Projects",
+      "Project Filtering by Programming Language",
+      "Contact Form with Database Storage",
+      "Responsive Design for All Devices",
+    ],
+  }
 ]
 
 export function ProjectsSection() {
@@ -53,9 +57,16 @@ export function ProjectsSection() {
 
                   <div className="flex-1 space-y-4">
                     <div className="flex items-start justify-between gap-4">
-                      <h4 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors">
-                        {project.title}
-                      </h4>
+                      <div className="space-y-2">
+                        <h4 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors">
+                          {project.title}
+                        </h4>
+                        {project.status && (
+                          <Badge className="border border-primary/30 bg-primary/10 text-primary hover:bg-primary/15">
+                            {project.status}
+                          </Badge>
+                        )}
+                      </div>
                       <span className="rounded-md border border-white/10 px-2 py-1 text-xs text-muted-foreground">
                         {String(index + 1).padStart(2, "0")}
                       </span>
@@ -76,6 +87,22 @@ export function ProjectsSection() {
                         </Badge>
                       ))}
                     </div>
+
+                    <Button
+                      asChild
+                      size="sm"
+                      variant="outline"
+                      className="border-white/15 bg-white/5 text-foreground transition-all hover:-translate-y-0.5 hover:bg-primary hover:text-primary-foreground"
+                    >
+                      <a
+                        href={project.projectLink}
+                        target={project.projectLink === "#" ? undefined : "_blank"}
+                        rel={project.projectLink === "#" ? undefined : "noopener noreferrer"}
+                      >
+                        View Project
+                        <ExternalLink className="h-4 w-4" />
+                      </a>
+                    </Button>
 
                     <div className="border-t border-white/10 pt-4">
                       <p className="text-sm text-muted-foreground mb-2">
