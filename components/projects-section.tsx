@@ -9,7 +9,7 @@ const projects = [
       "A comprehensive platform where users can request maintenance services online. Features a complete authentication system, request management, and an admin dashboard for service providers.",
     icon: Wrench,
   
-    status: "En cours",
+    status: "comming soon",
     stack: ["Laravel", "MySQL", "Blade", "Tailwind CSS"],
     features: ["User Authentication", "Request System", "Admin Dashboard", "Real-time Status Updates"],
   },
