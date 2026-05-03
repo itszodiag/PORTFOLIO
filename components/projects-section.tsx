@@ -46,7 +46,7 @@ export function ProjectsSection() {
             {projects.map((project, index) => (
               <article
                 key={project.title}
-                className={`surface-panel group rounded-lg border border-white/10 p-6 transition-all duration-300 hover:-translate-y-2 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/20 md:p-8 animate-scale-in motion-delay-${index + 2}`}
+                className={`surface-panel group rounded-lg dark:border-white/10 light:border-foreground/15 border p-6 transition-all duration-300 hover:-translate-y-2 dark:hover:border-primary/50 light:hover:border-primary/50 dark:hover:shadow-2xl dark:hover:shadow-primary/20 light:hover:shadow-xl light:hover:shadow-primary/15 md:p-8 animate-scale-in motion-delay-${index + 2}`}
               >
                 <div className="flex flex-col md:flex-row gap-6">
                   <div className="flex-shrink-0">

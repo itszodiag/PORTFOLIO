@@ -49,7 +49,7 @@ export function AboutSection() {
               {highlights.map((item, index) => (
                 <div
                   key={item.label}
-                  className={`surface-panel group rounded-lg border border-white/10 p-6 transition-all duration-300 hover:-translate-y-2 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/25 animate-scale-in motion-delay-${index + 3}`}
+                  className={`surface-panel group rounded-lg border dark:border-white/10 light:border-foreground/10 p-6 transition-all duration-300 hover:-translate-y-2 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/25 animate-scale-in motion-delay-${index + 3}`}
                 >
                   <div className="relative mb-4">
                     <div className="absolute inset-0 rounded-lg bg-primary/20 blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 animate-glow-pulse" />
