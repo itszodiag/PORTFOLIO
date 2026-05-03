@@ -30,7 +30,7 @@ export function Navbar() {
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         isSolid
-          ? "border-b dark:border-white/10 light:border-foreground/15 dark:bg-background/90 light:bg-background/80 text-foreground dark:shadow-lg dark:shadow-black/20 light:shadow-md light:shadow-black/5 backdrop-blur-xl"
+          ? "border-b dark:border-white/10 light:border-foreground/15 dark:bg-background/90 light:bg-white/95 text-foreground dark:shadow-lg dark:shadow-black/20 light:shadow-md light:shadow-black/10 backdrop-blur-xl"
           : "bg-transparent text-white"
       }`}
     >
@@ -38,7 +38,9 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           <a
             href="#"
-            className="text-xl font-bold transition-colors hover:text-primary"
+            className={`text-xl font-bold transition-colors hover:text-primary ${
+              isSolid ? "dark:text-foreground light:text-foreground" : "text-white"
+            }`}
           >
             Ayman
           </a>
@@ -50,7 +52,7 @@ export function Navbar() {
                 <a
                   href={link.href}
                   className={`rounded-md px-2 py-1 text-sm font-medium transition-all hover:-translate-y-0.5 hover:text-primary ${
-                    isSolid ? "dark:text-muted-foreground light:text-foreground/70 dark:hover:bg-white/5 light:hover:bg-foreground/10" : "text-white/85 hover:bg-white/10"
+                    isSolid ? "dark:text-muted-foreground light:text-foreground dark:hover:bg-white/5 light:hover:bg-foreground/10" : "text-white/85 hover:bg-white/10"
                   }`}
                 >
                   {link.label}
@@ -68,7 +70,7 @@ export function Navbar() {
               size="icon"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               aria-label="Toggle menu"
-              className="md:hidden dark:hover:bg-white/10 light:hover:bg-foreground/10"
+              className={`md:hidden ${isSolid ? "dark:hover:bg-white/10 light:hover:bg-foreground/10 dark:text-foreground light:text-foreground" : "text-white hover:bg-white/10"}`}
             >
               {isMobileMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
             </Button>
@@ -77,12 +79,12 @@ export function Navbar() {
 
         {/* Mobile Navigation */}
         {isMobileMenuOpen && (
-          <ul className="surface-panel animate-reveal md:hidden mt-4 flex flex-col gap-2 rounded-lg dark:border-white/10 light:border-foreground/10 border p-3">
+          <ul className="surface-panel animate-reveal md:hidden mt-4 flex flex-col gap-2 rounded-lg dark:border-white/10 light:border-foreground/15 border p-3">
             {navLinks.map((link) => (
               <li key={link.href}>
                 <a
                   href={link.href}
-                  className="block rounded-md px-3 py-2 text-sm font-medium dark:text-muted-foreground light:text-foreground/70 transition-colors dark:hover:bg-white/10 light:hover:bg-foreground/10 dark:hover:text-primary light:hover:text-primary"
+                  className="block rounded-md px-3 py-2 text-sm font-medium dark:text-muted-foreground light:text-foreground transition-colors dark:hover:bg-white/10 light:hover:bg-foreground/10 dark:hover:text-primary light:hover:text-primary"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   {link.label}
