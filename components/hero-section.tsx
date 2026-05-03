@@ -2,14 +2,27 @@
 
 import { ArrowDown, Github, Linkedin } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { useEffect, useState } from "react"
 
 export function HeroSection() {
+  const [offsetY, setOffsetY] = useState(0)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setOffsetY(window.scrollY)
+    }
+
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
   return (
     <section className="section-grid relative flex min-h-[88svh] items-center overflow-hidden py-28 md:py-32">
       <img
         src="/hero-workspace.jpg"
         alt="Developer workspace with code on a monitor"
         className="absolute inset-0 h-full w-full object-cover saturate-125"
+        style={{ transform: `translateY(${offsetY * 0.5}px)` }}
       />
       <div className="absolute inset-0 bg-gradient-to-r from-background via-background/85 to-accent/35" />
       <div className="absolute inset-0 bg-background/30" />
@@ -31,13 +44,13 @@ export function HeroSection() {
           </p>
 
           <div className="flex flex-wrap gap-4 mb-12 animate-reveal motion-delay-4">
-            <Button asChild size="lg" className="group bg-primary text-primary-foreground shadow-lg shadow-primary/20 hover:-translate-y-0.5 hover:bg-primary/90">
+            <Button asChild size="lg" className="group bg-primary text-primary-foreground shadow-lg shadow-primary/20 hover:-translate-y-0.5 hover:bg-primary/90 transition-all duration-300 hover:shadow-lg hover:shadow-primary/40">
               <a href="#projects">
                 View Projects
                 <ArrowDown className="ml-2 h-4 w-4 group-hover:translate-y-1 transition-transform" />
               </a>
             </Button>
-            <Button asChild variant="outline" size="lg" className="border-white/35 bg-white/10 text-white hover:-translate-y-0.5 hover:bg-white hover:text-foreground">
+            <Button asChild variant="outline" size="lg" className="border-white/35 bg-white/10 text-white hover:-translate-y-0.5 hover:bg-white hover:text-foreground transition-all duration-300 hover:border-white/50">
               <a href="#contact">Contact Me</a>
             </Button>
           </div>
@@ -47,26 +60,26 @@ export function HeroSection() {
               href="https://github.com/itszodiag"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-md border border-white/15 bg-white/10 p-2 text-white/75 transition-all hover:-translate-y-0.5 hover:border-primary/60 hover:text-white"
+              className="rounded-md border border-white/15 bg-white/10 p-2 text-white/75 transition-all hover:-translate-y-0.5 hover:border-primary/60 hover:text-white hover:bg-primary/20 hover:animate-pulse-glow"
               aria-label="GitHub"
             >
-              <Github className="h-6 w-6" />
+              <Github className="h-6 w-6 transition-transform hover:rotate-12" />
             </a>
             <a
               href="https://www.linkedin.com/in/ariri-ayman-8340a0344/"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-md border border-white/15 bg-white/10 p-2 text-white/75 transition-all hover:-translate-y-0.5 hover:border-primary/60 hover:text-white"
+              className="rounded-md border border-white/15 bg-white/10 p-2 text-white/75 transition-all hover:-translate-y-0.5 hover:border-primary/60 hover:text-white hover:bg-primary/20 hover:animate-pulse-glow"
               aria-label="LinkedIn"
             >
-              <Linkedin className="h-6 w-6" />
+              <Linkedin className="h-6 w-6 transition-transform hover:rotate-12" />
             </a>
           </div>
         </div>
       </div>
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-drift">
-        <ArrowDown className="h-6 w-6 text-white/75" />
+        <ArrowDown className="h-6 w-6 text-white/75 animate-float" />
       </div>
     </section>
   )

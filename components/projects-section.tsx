@@ -46,42 +46,43 @@ export function ProjectsSection() {
             {projects.map((project, index) => (
               <article
                 key={project.title}
-                className={`surface-panel group rounded-lg border border-white/10 p-6 transition-all duration-300 hover:-translate-y-1 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/10 md:p-8 animate-rise motion-delay-${index + 1}`}
+                className={`surface-panel group rounded-lg border border-white/10 p-6 transition-all duration-300 hover:-translate-y-2 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/20 md:p-8 animate-scale-in motion-delay-${index + 2}`}
               >
                 <div className="flex flex-col md:flex-row gap-6">
                   <div className="flex-shrink-0">
-                    <div className="flex h-14 w-14 items-center justify-center rounded-lg border border-primary/20 bg-primary/10 transition-all duration-300 group-hover:scale-105 group-hover:bg-primary/20">
-                      <project.icon className="h-7 w-7 text-primary transition-transform duration-300 group-hover:rotate-3" />
+                    <div className="flex h-14 w-14 items-center justify-center rounded-lg border border-primary/20 bg-primary/10 transition-all duration-300 group-hover:scale-110 group-hover:bg-primary/20 group-hover:rotate-6">
+                      <project.icon className="h-7 w-7 text-primary transition-all duration-300 group-hover:rotate-12 group-hover:animate-bounce" />
                     </div>
                   </div>
 
                   <div className="flex-1 space-y-4">
                     <div className="flex items-start justify-between gap-4">
                       <div className="space-y-2">
-                        <h4 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors">
+                        <h4 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors duration-300">
                           {project.title}
                         </h4>
                         {project.status && (
-                          <Badge className="border border-primary/30 bg-primary/10 text-primary hover:bg-primary/15">
+                          <Badge className="border border-primary/30 bg-primary/10 text-primary hover:bg-primary/15 animate-pulse">
                             {project.status}
                           </Badge>
                         )}
                       </div>
-                      <span className="rounded-md border border-white/10 px-2 py-1 text-xs text-muted-foreground">
+                      <span className="rounded-md border border-white/10 px-2 py-1 text-xs text-muted-foreground group-hover:border-primary/30 group-hover:text-primary transition-colors duration-300">
                         {String(index + 1).padStart(2, "0")}
                       </span>
                     </div>
 
-                    <p className="text-muted-foreground leading-relaxed">
+                    <p className="text-muted-foreground leading-relaxed group-hover:text-muted-foreground/90 transition-colors duration-300">
                       {project.description}
                     </p>
 
                     <div className="flex flex-wrap gap-2">
-                      {project.stack.map((tech) => (
+                      {project.stack.map((tech, techIndex) => (
                         <Badge
                           key={tech}
                           variant="secondary"
-                          className="text-xs"
+                          className="text-xs hover:scale-105 transition-transform duration-200"
+                          style={{ animationDelay: `${techIndex * 50}ms` }}
                         >
                           {tech}
                         </Badge>
@@ -92,7 +93,7 @@ export function ProjectsSection() {
                       asChild
                       size="sm"
                       variant="outline"
-                      className="border-white/15 bg-white/5 text-foreground transition-all hover:-translate-y-0.5 hover:bg-primary hover:text-primary-foreground"
+                      className="border-white/15 bg-white/5 text-foreground transition-all hover:-translate-y-0.5 hover:bg-primary hover:text-primary-foreground hover:shadow-lg hover:shadow-primary/30"
                     >
                       <a
                         href={project.projectLink}
@@ -100,7 +101,7 @@ export function ProjectsSection() {
                         rel={project.projectLink === "#" ? undefined : "noopener noreferrer"}
                       >
                         View Project
-                        <ExternalLink className="h-4 w-4" />
+                        <ExternalLink className="h-4 w-4 group-hover:rotate-45 transition-transform" />
                       </a>
                     </Button>
 
@@ -109,12 +110,13 @@ export function ProjectsSection() {
                         Key Features:
                       </p>
                       <ul className="grid gap-2 sm:grid-cols-2">
-                        {project.features.map((feature) => (
+                        {project.features.map((feature, featureIndex) => (
                           <li
                             key={feature}
-                            className="text-sm text-foreground flex items-center gap-2"
+                            className="text-sm text-foreground flex items-center gap-2 hover:text-primary transition-colors duration-200"
+                            style={{ animationDelay: `${featureIndex * 30}ms` }}
                           >
-                            <span className="w-1 h-1 rounded-full bg-primary" />
+                            <span className="w-1 h-1 rounded-full bg-primary group-hover:animate-pulse" />
                             {feature}
                           </li>
                         ))}

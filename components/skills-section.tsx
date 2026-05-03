@@ -52,25 +52,25 @@ export function SkillsSection() {
             {skillCategories.map((category, index) => (
               <div
                 key={category.title}
-                className={`surface-panel rounded-lg border border-white/10 p-6 animate-rise motion-delay-${index + 1}`}
+                className={`surface-panel rounded-lg border border-white/10 p-6 transition-all duration-300 hover:-translate-y-1 hover:border-primary/50 hover:shadow-lg hover:shadow-primary/20 animate-rotate-in motion-delay-${index + 2} group`}
               >
-                <h4 className="text-lg font-semibold text-foreground mb-6">
+                <h4 className="text-lg font-semibold text-foreground mb-6 group-hover:text-primary transition-colors duration-300">
                   {category.title}
                 </h4>
                 <div className="space-y-4">
-                  {category.skills.map((skill) => (
-                    <div key={skill.name}>
+                  {category.skills.map((skill, skillIndex) => (
+                    <div key={skill.name} className="animate-scale-in" style={{ animationDelay: `${skillIndex * 100}ms` }}>
                       <div className="flex justify-between mb-2">
-                        <span className="text-sm text-muted-foreground">
+                        <span className="text-sm text-muted-foreground group-hover:text-foreground transition-colors duration-300">
                           {skill.name}
                         </span>
-                        <span className="text-sm text-muted-foreground">
+                        <span className="text-sm text-muted-foreground group-hover:text-primary transition-colors duration-300 font-medium">
                           {skill.level}%
                         </span>
                       </div>
-                      <div className="h-2 overflow-hidden rounded-full bg-background/70">
+                      <div className="h-2 overflow-hidden rounded-full bg-background/70 group-hover:shadow-lg group-hover:shadow-primary/20 transition-all duration-300">
                         <div
-                          className="h-full rounded-full bg-gradient-to-r from-primary to-accent animate-skill"
+                          className="h-full rounded-full bg-gradient-to-r from-primary to-accent animate-skill group-hover:animate-gradient-shift transition-all duration-300"
                           style={{ "--skill-level": `${skill.level}%` } as CSSProperties}
                         />
                       </div>

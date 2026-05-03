@@ -187,8 +187,94 @@
     animation-delay: 520ms;
   }
 
+  .motion-delay-6 {
+    animation-delay: 620ms;
+  }
+
+  .motion-delay-7 {
+    animation-delay: 720ms;
+  }
+
+  .motion-delay-8 {
+    animation-delay: 820ms;
+  }
+
   .motion-safe {
     transform: translateZ(0);
+  }
+
+  /* Scroll-triggered animations */
+  .animate-in-left {
+    animation: slideInLeft 600ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  .animate-in-right {
+    animation: slideInRight 600ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  .animate-scale-in {
+    animation: scaleIn 500ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  .animate-rotate-in {
+    animation: rotateIn 600ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  /* Hover effects */
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .animate-pulse-glow {
+    animation: pulseGlow 2s ease-in-out infinite;
+  }
+
+  .animate-shimmer {
+    animation: shimmer 2s infinite;
+  }
+
+  /* Text animations */
+  .animate-typewriter {
+    animation: typewriter 3.5s steps(40, end) 1s both,
+              blink 0.75s step-end infinite 3.5s;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid;
+  }
+
+  .animate-text-gradient {
+    animation: textGradient 3s ease infinite;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .animate-word-slide {
+    animation: wordSlide 500ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  /* Advanced animations */
+  .animate-blob-rotate {
+    animation: blobRotate 6s ease-in-out infinite;
+  }
+
+  .animate-gradient-shift {
+    animation: gradientShift 8s ease infinite;
+    background-size: 200% 200%;
+  }
+
+  /* Page transitions */
+  .animate-page-fade-in {
+    animation: pageFadeIn 600ms ease-out both;
+  }
+
+  .animate-page-slide-in {
+    animation: pageSlideIn 600ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  }
+
+  /* Stagger animations for lists */
+  .stagger-item {
+    animation-delay: inherit;
   }
 }
 
@@ -230,6 +316,158 @@
   }
   to {
     width: var(--skill-level);
+  }
+}
+
+/* Scroll-triggered keyframes */
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes rotateIn {
+  from {
+    opacity: 0;
+    transform: rotate(-10deg) scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: rotate(0) scale(1);
+  }
+}
+
+/* Hover effects keyframes */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(0, 168, 168, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(0, 168, 168, 0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+/* Text animation keyframes */
+@keyframes typewriter {
+  to {
+    left: 100%;
+  }
+}
+
+@keyframes blink {
+  to {
+    color: transparent;
+  }
+}
+
+@keyframes textGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes wordSlide {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Advanced keyframes */
+@keyframes blobRotate {
+  0%, 100% {
+    transform: rotate(0deg) scale(1);
+  }
+  50% {
+    transform: rotate(180deg) scale(1.05);
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Page transition keyframes */
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes pageSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
